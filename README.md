@@ -9,13 +9,6 @@ It allows users to open and close a modal smoothly with a user-friendly experien
 ✅ Customizable – Modify styles and content as needed.
 ✅ Pure HTML, CSS, and JavaScript – No external libraries required.
 
-## 📂 Project Structure
-
-/modal-project
-│── index.html     # Main HTML file
-│── styles.css     # Modal styling
-│── script.js      # JavaScript functionality
-
 ##🛠️ How It Works
 1️⃣ Click the "Open Modal" button to display the modal.
 2️⃣ Click the close (×) button or outside the modal to close it.
